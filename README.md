@@ -1,10 +1,13 @@
 # CSS
+<main>
 <style>
   .red-text {
     color: red;
   }
 </style>
 <h2 style="color: red">CatPhotoApp</h2>
+  <main>
+  
   <p>Click here to view more <a href="#">cat photos</a>.</p>
   
   <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
