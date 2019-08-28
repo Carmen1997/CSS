@@ -1,5 +1,9 @@
 # CSS
-main>
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
 <h2 style="color: red">CatPhotoApp</h2>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
   
